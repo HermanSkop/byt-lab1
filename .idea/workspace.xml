@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f73dd9d5-494e-4109-a866-83fe2ae4226f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/a_Introductory/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/a_Introductory/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/a_Introductory/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/a_Introductory/Quadrilateral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/a_Introductory/Vector2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/b_Money/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/b_Money/AccountDoesNotExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/b_Money/AccountExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/b_Money/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/b_Money/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/b_Money/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/a_Introductory/FibonacciTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/a_Introductory/LineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/a_Introductory/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/a_Introductory/QuadrilateralTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/a_Introductory/Vector2DTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/b_Money/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/b_Money/BankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/b_Money/CurrencyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/b_Money/MoneyTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Z8Fr9QATwfuiuJRxwhuv9Rf5xw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Herman/Desktop/lab1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Herman\Desktop\lab1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.QuadrilateralTest">
+    <configuration name="FibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.a_Introductory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.a_Introductory" />
+      <option name="MAIN_CLASS_NAME" value="test.a_Introductory.FibonacciTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.a_Introductory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.a_Introductory" />
+      <option name="MAIN_CLASS_NAME" value="test.a_Introductory.LineTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.a_Introductory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.a_Introductory" />
+      <option name="MAIN_CLASS_NAME" value="test.a_Introductory.PointTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuadrilateralTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.a_Introductory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.a_Introductory" />
+      <option name="MAIN_CLASS_NAME" value="test.a_Introductory.QuadrilateralTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vector2DTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.a_Introductory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.a_Introductory" />
+      <option name="MAIN_CLASS_NAME" value="test.a_Introductory.Vector2DTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.QuadrilateralTest" />
+        <item itemvalue="JUnit.Vector2DTest" />
+        <item itemvalue="JUnit.PointTest" />
+        <item itemvalue="JUnit.LineTest" />
+        <item itemvalue="JUnit.FibonacciTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f73dd9d5-494e-4109-a866-83fe2ae4226f" name="Changes" comment="" />
+      <created>1701795995846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701795995846</updated>
+      <workItem from="1701795997089" duration="10741000" />
+      <workItem from="1701876782798" duration="265000" />
+      <workItem from="1701877140168" duration="1095000" />
+      <workItem from="1701878830574" duration="91000" />
+      <workItem from="1701878975033" duration="3872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/src/b_Money/Money.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
